@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.ReqResApiTests">
+  <component name="RunManager" selected="TestNG.DogsApiTests">
     <configuration name="DogsApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
@@ -130,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ReqResApiTests" />
         <item itemvalue="TestNG.DogsApiTests" />
+        <item itemvalue="TestNG.ReqResApiTests" />
         <item itemvalue="TestNG.ReqResApiTests.updateUserTest" />
         <item itemvalue="TestNG.ReqResApiTests.createPutUserTest" />
         <item itemvalue="TestNG.ReqResApiTests.getListOfUsersTest" />
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702554097511</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="API Complete project">
+      <created>1702554152373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554152373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
