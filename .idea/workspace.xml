@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4a4702-5361-4563-9c16-76fe29d6dfd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/13ff5d11-2ebe-4304-956b-48d3c5fb60ec-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/162979c7-cdac-46bb-95cd-d7f840c12673-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/25f8b3f0-0187-4e70-8c04-ab10bd13b763-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2f547df2-f524-4c37-8140-d7fed4a744bc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/53e73baf-8384-4434-9b72-242bffb573dc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5d9230ff-b285-48c1-b24d-198ca6f515a1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/627bfffe-169f-4bca-baa0-79f14a77ff0f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7fbdb0b7-f306-4959-903d-e9d79d8df1d9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/85cf21d7-bde1-4270-ba81-bf7a772a8472-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/98dfba80-8ffc-41c1-bca1-f07e15faae71-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9ede57c9-e287-4829-a806-22dcc99ba811-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a253eccf-dee5-4e41-9a6a-55f29bce1140-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a2e02a69-1889-4e12-a4c8-2fb9d9418c8a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ac25ba31-c776-4705-b285-213f3c124591-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/af95b58d-f044-4b1f-9fff-870c29632909-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b9839300-8ad3-4d25-be44-30793c184fd4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d4380039-dcd1-4df7-b3ea-30c687c4e28d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d882cb78-858d-484f-95cb-3359c3bc7e6b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ece1b4df-bbdc-4305-8a59-0be5e6462a0b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fae0fed5-89bf-42df-b454-04122d1ee4ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Common/BasePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Common/CommonTestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Common/ContentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Common/PayloadBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Common/RequestBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/DogApi/DogsApiTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ReqRes/ReqResApiTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a4a4702-5361-4563-9c16-76fe29d6dfd8" name="Changes" comment="API Complete project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,6 +147,21 @@
       <option name="presentableId" value="Default" />
       <updated>1702380048737</updated>
     </task>
+    <task id="LOCAL-00001" summary="API Complete project">
+      <created>1702553659203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702553659203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="API Complete project">
+      <created>1702554097511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554097511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,5 +177,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="API Complete project" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Complete project" />
   </component>
 </project>
