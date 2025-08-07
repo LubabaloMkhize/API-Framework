@@ -45,6 +45,7 @@ public class RequestBuilder {
     public static Response getListOfAllUsersResponse(){
         return given().
                 when().
+                header("x-api-key", "reqres-free-v1").
                 get(ReqRes_BaseUrl+"/api/users?page=2").
                 then().
                 log().
@@ -56,6 +57,7 @@ public class RequestBuilder {
     public static Response createNewUserResponse(){
         return given().
                 when().
+                header("x-api-key", "reqres-free-v1").
                 body(createNewUserObject()).
                 contentType(reqres_contentType).
                 log().
@@ -71,6 +73,7 @@ public class RequestBuilder {
     public static Response updateUserResponse(){
         return given().
                 when().
+                header("x-api-key", "reqres-free-v1").
                 body(updateUserObject()).
                 contentType(reqres_contentType).
                 log().

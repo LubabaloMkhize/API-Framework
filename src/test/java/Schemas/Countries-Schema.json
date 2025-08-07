@@ -1,0 +1,209 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "object",
+      "properties": {
+        "common": {
+          "type": "string"
+        },
+        "official": {
+          "type": "string"
+        },
+        "nativeName": {
+          "type": "object",
+          "properties": {
+            "afr": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "eng": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "nbl": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "nso": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "sot": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "ssw": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "tsn": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "tso": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "ven": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "xho": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            },
+            "zul": {
+              "type": "object",
+              "properties": {
+                "official": {
+                  "type": "string"
+                },
+                "common": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "official",
+                "common"
+              ]
+            }
+          },
+          "required": [
+            "afr",
+            "eng",
+            "nbl",
+            "nso",
+            "sot",
+            "ssw",
+            "tsn",
+            "tso",
+            "ven",
+            "xho",
+            "zul"
+          ]
+        }
+      },
+      "required": [
+        "common",
+        "official",
+        "nativeName"
+      ]
+    }
+  },
+  "required": [
+    "name"
+  ]
+}

@@ -19,7 +19,6 @@ public class ReqResApiTests {
                 then().
                 assertThat().
                 statusCode(SUCCESS_STATUS_CODE).
-                header("x-api-key", "reqres-free-v1").
                 body(containsString("data")).
                 body("data.id[0]",equalTo(7)).
                 body("data.first_name", hasItems("Tobias")).
@@ -32,7 +31,6 @@ public class ReqResApiTests {
                then().
                assertThat().
                statusCode(CREATE_STATUS_CODE).
-               header("x-api-key", "reqres-free-v1").
                body("id",notNullValue()).
                body("name",containsString("Lubabalo")).
                body("job",containsString("Tester")).
@@ -45,7 +43,6 @@ public class ReqResApiTests {
                 then().
                 assertThat().
                 statusCode(SUCCESS_STATUS_CODE).
-                header("x-api-key", "reqres-free-v1").
                 body("name",containsString("Lubabalo")).
                 body("job",containsString("Tester")).
                 body("updatedAt",notNullValue()).
