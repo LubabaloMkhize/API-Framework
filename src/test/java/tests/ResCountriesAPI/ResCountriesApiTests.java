@@ -25,7 +25,7 @@ public class ResCountriesApiTests {
         RequestBuilder.confirmationOfCountries()
                 .then()
                 .assertThat()
-                .body(JsonSchemaValidator.matchesJsonSchema(new File("D:\\API-Framework\\src\\test\\java\\Schemas\\Countries-Schema.json")));
+                .body(JsonSchemaValidator.matchesJsonSchema(new File("src/test/java/Schemas/Countries-Schema.json")));
 
         System.out.println("✅ Schema validation passed.");
     }

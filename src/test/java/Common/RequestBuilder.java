@@ -23,7 +23,7 @@ public class RequestBuilder {
     public static Response confirmationOfCountries(){
         return given().
                 when().
-                get(ResCountriesUrl+"all?fields=name").
+                get(ResCountries_BaseUrl+"all?fields=name").
                 then().
                 log().
                 all().
@@ -34,7 +34,7 @@ public class RequestBuilder {
     public static Response validationOfSouthAfricanLanguage(){
         return given().
                 when().
-                get(ResCountriesUrl+"all?fields=name,languages").
+                get(ResCountries_BaseUrl+"all?fields=name,languages").
                 then().
                 log().
                 all().
