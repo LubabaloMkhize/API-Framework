@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a4a4702-5361-4563-9c16-76fe29d6dfd8" name="Changes" comment="API Complete project 1" />
+    <list default="true" id="4a4a4702-5361-4563-9c16-76fe29d6dfd8" name="Changes" comment="API Complete project 1">
+      <change afterPath="$PROJECT_DIR$/allure-results/0067f2c2-a8d2-4e19-84a0-5d4b9d8b1bbd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/00781443-e5f4-46c3-bfaa-a021df3fe136-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08351799-88f1-4761-acb1-721ba29269e1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0fe7884e-6f33-4c66-873e-f480f9a8320a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/10731807-c81f-489a-a475-6177e6ebe6f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/24fec498-1e59-433d-998e-119c48d39da3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/258d558a-a7e6-4694-b935-8641d6fac67d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29ac8fc6-dbb5-4ee0-9c47-6c4be2fcea72-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/31907643-09c7-47fd-a257-610d95e17c68-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/339671df-7212-488e-b492-43e7c4648eda-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4141215a-a3f7-4bbc-a583-136c456aae81-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/52f2ade1-d462-484f-b79c-2f19d8142092-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5bf8f0fe-f0dc-443a-9fa1-da3e7b74cd90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d72fc0b-fe72-4e3f-945d-f4a0f529358d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5e7da80c-898b-4a4e-97e3-4ef354951b26-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/624499c6-26fe-453c-ae2f-ab63d245eaf3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6341be52-86b3-47f7-a910-9598ab0b14cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a17db4d-e6ca-4aa5-9ace-c4a1c7fb3356-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76c185ae-9ae3-42b0-99ab-a18e1468bff4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a164489-ef8b-476e-a5c1-a5ac189ed204-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b7b7560-cd85-48cc-afae-3255e8b16247-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92e426db-f636-46a6-8723-179eeb11fc24-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a04dfeb-e6d4-4ae3-8526-f6bf205d6e77-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9b6ee267-7fee-4686-8e75-010ee42188b2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a2b52136-0051-4bf9-b994-84cee1c81a05-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad388ad7-91f2-4683-b628-b1fe6d06fe03-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b2b3a0cb-6539-4e04-8555-868934434127-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b8520ef6-27d4-4663-a128-588f2e9b9c95-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bdf21f66-ed24-44e6-afe3-d7021436f2a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d74277f9-e1f9-4937-ad35-56161514d614-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d9ac073f-9d24-4f66-82d3-14a71632a131-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e49e316c-8daa-43e7-9fab-87dd16231459-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8e2c3d7-9be3-459e-8c79-60234c74cf2e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e99fab7c-6ba2-44ca-b3e8-b7999ed70390-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ed29db3a-6444-489d-a3f9-79bb4b1ec24d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ResCountriesAPI/ResCountriesApiTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Common/BasePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Common/BasePaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Common/ContentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Common/ContentType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Common/RequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Common/RequestBuilder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +67,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LubabaloMkhize"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LubabaloMkhize/API-Framework.git",
+    "accountId": "8b034fee-bde6-4cc8-8d9e-3730f72f4908"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -49,13 +102,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.DogsApiTests.executor": "Run",
     "TestNG.ReqResApiTests.executor": "Run",
+    "TestNG.ResCountriesApiTests.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lubabalo.Mkhize/Documents/GitProjects/RestAssured",
     "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.ReqResApiTests">
+  <component name="RunManager" selected="TestNG.ResCountriesApiTests">
     <configuration name="DogsApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
       <extension name="coverage">
@@ -84,24 +138,6 @@
       <option name="PACKAGE_NAME" value="tests.ReqRes" />
       <option name="MAIN_CLASS_NAME" value="tests.ReqRes.ReqResApiTests" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReqResApiTests.createPutUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ReqRes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ReqRes" />
-      <option name="MAIN_CLASS_NAME" value="tests.ReqRes.ReqResApiTests" />
-      <option name="METHOD_NAME" value="createPutUserTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -144,13 +180,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ResCountriesApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ResCountriesAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ResCountriesAPI" />
+      <option name="MAIN_CLASS_NAME" value="tests.ResCountriesAPI.ResCountriesApiTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ReqResApiTests" />
+        <item itemvalue="TestNG.ResCountriesApiTests" />
         <item itemvalue="TestNG.DogsApiTests" />
+        <item itemvalue="TestNG.ReqResApiTests" />
         <item itemvalue="TestNG.ReqResApiTests.getListOfUsersTest" />
         <item itemvalue="TestNG.ReqResApiTests.updateUserTest" />
-        <item itemvalue="TestNG.ReqResApiTests.createPutUserTest" />
       </list>
     </recent_temporary>
   </component>

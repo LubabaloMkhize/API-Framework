@@ -20,6 +20,28 @@ public class RequestBuilder {
                 response();
     }
 
+    public static Response confirmationOfCountries(){
+        return given().
+                when().
+                get(ResCountriesUrl+"all?fields=name").
+                then().
+                log().
+                all().
+                extract().
+                response();
+    }
+
+    public static Response validationOfSouthAfricanLanguage(){
+        return given().
+                when().
+                get(ResCountriesUrl+"all?fields=name,languages").
+                then().
+                log().
+                all().
+                extract().
+                response();
+    }
+
     public static Response getListOfAllUsersResponse(){
         return given().
                 when().
