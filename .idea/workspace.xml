@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a4a4702-5361-4563-9c16-76fe29d6dfd8" name="Changes" comment="API updated Maven Dependency." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LubabaloMkhize&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LubabaloMkhize/API-Framework.git&quot;,
+    &quot;accountId&quot;: &quot;6e422878-a4ab-4093-a29b-a4b108e744c2&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZRLeufWKFxN4EekEKcTDsrOPu7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.DogsApiTests.executor": "Run",
+    "TestNG.ReqResApiTests.executor": "Run",
+    "TestNG.ResCountriesApiTests.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/API-Framework",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.DogsApiTests">
+    <configuration name="DogsApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.DogApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.DogApi" />
+      <option name="MAIN_CLASS_NAME" value="tests.DogApi.DogsApiTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReqResApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ReqRes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ReqRes" />
+      <option name="MAIN_CLASS_NAME" value="tests.ReqRes.ReqResApiTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReqResApiTests.getListOfUsersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ReqRes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ReqRes" />
+      <option name="MAIN_CLASS_NAME" value="tests.ReqRes.ReqResApiTests" />
+      <option name="METHOD_NAME" value="getListOfUsersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReqResApiTests.updateUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ReqRes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ReqRes" />
+      <option name="MAIN_CLASS_NAME" value="tests.ReqRes.ReqResApiTests" />
+      <option name="METHOD_NAME" value="updateUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResCountriesApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ResCountriesAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ResCountriesAPI" />
+      <option name="MAIN_CLASS_NAME" value="tests.ResCountriesAPI.ResCountriesApiTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DogsApiTests" />
+        <item itemvalue="TestNG.ReqResApiTests" />
+        <item itemvalue="TestNG.ResCountriesApiTests" />
+        <item itemvalue="TestNG.ReqResApiTests.getListOfUsersTest" />
+        <item itemvalue="TestNG.ReqResApiTests.updateUserTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a4a4702-5361-4563-9c16-76fe29d6dfd8" name="Changes" comment="" />
+      <created>1702380048737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702380048737</updated>
+    </task>
+    <task id="LOCAL-00001" summary="API Complete project">
+      <created>1702553659203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702553659203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="API Complete project">
+      <created>1702554097511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554097511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="API Complete project">
+      <created>1702554152373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554152373</updated>
+    </task>
+    <task id="LOCAL-00004" summary="API Complete project">
+      <created>1702554607268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554607268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="API Complete project 1">
+      <created>1702554782267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554782267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="API Complete project 1">
+      <option name="closed" value="true" />
+      <created>1741108943314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741108943314</updated>
+    </task>
+    <task id="LOCAL-00007" summary="API updated Maven Dependency.">
+      <option name="closed" value="true" />
+      <created>1754556992079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754556992079</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="API Complete project" />
+    <MESSAGE value="API Complete project 1" />
+    <MESSAGE value="API updated Maven Dependency." />
+    <option name="LAST_COMMIT_MESSAGE" value="API updated Maven Dependency." />
+  </component>
+</project>
